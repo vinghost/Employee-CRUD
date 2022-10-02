@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "firstname": "vinayak",
+      "lastname": "pawar",
+      "birthdate": "2000-07-30",
+      "gender": "M",
+      "education": "PHD",
+      "company": "google",
+      "jobexperince": 1,
+      "salary": 40,
+      "profile": "profile-1.jpeg",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
